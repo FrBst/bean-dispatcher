@@ -1,0 +1,2 @@
+public interface IBean3 {
+}
